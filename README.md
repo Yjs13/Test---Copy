@@ -1,5 +1,8 @@
 Final Project (Task Manager Application)
 
+Youtube Link for the video of the Application
+https://youtu.be/wRXE68bsn3A 
+
 Project Concept and Motivation of the project
 - Developed a cross-platform "Task Manager Mobile Application" that is built with "React Native" by using "Visual Studio Code"
 - Incorporates gamification, privacy and is user-friendly for task management
