@@ -35,3 +35,4 @@ Evaluation
 - Conducted Competitor Analysis on the similar application on the market
 - Conducted a User Survey on the User Preferences for the Task Manager application features
 
+
